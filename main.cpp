@@ -4,6 +4,6 @@
 using namespace std;
 
 int main() {
-    Spotify spotify;
+    cout << "Welcome to the Spotify Playlist Manager!" << endl;
     return 0;
 }
