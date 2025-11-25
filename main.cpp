@@ -11,7 +11,7 @@ int main()
     address p;
     infotype x;
 
-    cout << "masukkan elemen pertama: ";
+    cout << "input elemen pertama: ";
     cin >> x;
     p = allocate_103052430004(x);
     insertFirst_103052430004(L, p);
