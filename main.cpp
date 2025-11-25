@@ -11,12 +11,12 @@ int main()
     address p;
     infotype x;
 
-    cout << "masukkan elemen pertama: ";
+    cout << "input elemen pertama: ";
     cin >> x;
     p = allocate_103052430004(x);
     insertFirst_103052430004(L, p);
 
-    cout << "masukkan elemen kedua di awal: ";
+    cout << "input elemen kedua di awal: ";
     cin >> x;
     p = allocate_103052430004(x);
     insertFirst_103052430004(L, p);
