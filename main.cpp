@@ -21,7 +21,7 @@ int main()
     p = allocate_103052430004(x);
     insertFirst_103052430004(L, p);
 
-    cout << "masukkan elemen ketiga di akhir: ";
+    cout << "input elemen ketiga di akhir: ";
     cin >> x;
     p = allocate_103052430004(x);
     insertLast_103052430004(L, p);
