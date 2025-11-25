@@ -124,7 +124,7 @@ void printSongList(SongList L) {
         cout << "Song library is empty." << endl;
         return;
     }
-    cout <<
+    cout << "\n--- Song Library ---" << endl;
 
     adrSong p = L.first;
     while (p != nullptr) {
